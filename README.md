@@ -1,24 +1,29 @@
-![image](https://github.com/Leoanaquin/Leoanaquin/assets/172268709/440bf98a-d2a5-4db9-b61c-06542ae9aaf5)
+![image]()
 <h2>quien soy<h2>
   
-leo anaquin
+## HOLA WACHIN
 
-18 años
+<h2>Quien soy</h2>
 
-carnet de conducir presente 
+Soy un apasionado en jugar a la pelota en el barrio
+___
+<h2>Gustos</h2>
 
-  
-<h2>mis gustos</h2>
+-**Hobby:** Me gusta jugar a la play
 
-**siempre rocho
+-**Musica:** Me gusta dito paez
 
-**counter strike
+-**Cine:** Mi pelicula favorita se llama "rápido y furiosos 7"
 
-**jugar ala play
+-**Programacion:** no se cómo hacerlo
+___
+<h2>Expectativas</h2>
 
-<h2>estudio</h2>
+Entrar a gendarmeria
+___
+··· Proyecto Destacado 1: [swag]
 
-**experto en matematicas
+![image](https://github.com/Leoanaquin/Leoanaquin/assets/172268709/440bf98a-d2a5-4db9-b61c-06542ae9aaf5)
 
-**futuro programador/gendarme
+··· Gracias por visitarnos el perfil 
 
