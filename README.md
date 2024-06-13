@@ -9,13 +9,13 @@ Soy un apasionado en jugar a la pelota en el barrio
 ___
 <h2>Gustos</h2>
 
-- ** Hobby: ** Me gusta jugar a la play
+- **Hobby:** Me gusta jugar a la play
 
-- ** Musica: ** Me gusta dito paez
+- **Musica:** Me gusta dito paez
 
-- ** Cine: ** Mi pelicula favorita se llama "rápido y furiosos 7"
+- **Cine:** Mi pelicula favorita se llama "rápido y furiosos 7"
 
-- ** Programacion: ** no se cómo hacerlo
+- **Programacion:** no se cómo hacerlo
 ___
 <h2>Expectativas</h2>
 
