@@ -1,4 +1,4 @@
-![image]()
+
 <h2>quien soy<h2>
   
 ## HOLA WACHIN
@@ -21,7 +21,7 @@ ___
 
 Entrar a gendarmeria
 ___
-··· Proyecto Destacado 1: [swag]
+··· Proyecto Destacado 1: [fuchibol]
 
 ![image](https://github.com/Leoanaquin/Leoanaquin/assets/172268709/440bf98a-d2a5-4db9-b61c-06542ae9aaf5)
 
